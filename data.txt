@@ -1,3 +1,4 @@
 Nombre: Alejandro Herrero
 Edad: 27
 Color favorito: NS/NC
+Ciudad: Madrid
